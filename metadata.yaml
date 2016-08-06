@@ -1,0 +1,31 @@
+_repo: Romance-de-lobos-comedia-barbara_10506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Montenegro, Ramón María del Valle Inclán y
+    - Valle-Inclan, Ramon del
+    - Inclán, Ramón del Valle
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Del Valle-Inclán, Ramón
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10506'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+- GITenberg
+title: Romance de lobos, comedia barbara
+url: http://www.gutenberg.org/ebooks/10506
